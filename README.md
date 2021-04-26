@@ -1,1 +1,1 @@
-# Image-classifier-using-Artificial-Neural-Networks
+# An image classifier is build  from scratch. For this I have used random images of male and female from google. 3 folders test, train and validate have been created in which they contain the images for training, testing and validating the model
